@@ -1,5 +1,8 @@
 ## Hi there mi name is Daniel 👋
 
+![Descripción de la imagen](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.xataka.com%2Frobotica-e-ia%2Fprogramar-cuando-maquina-hace-poco-ti-asi-github-copilot-sistema-que-se-nutre-prodigioso-gpt-3&psig=AOvVaw1LxrM-eWaCsEb_b5PTTYaI&ust=1739972327189000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMiN0dqszYsDFQAAAAAdAAAAABAL)
+
+
 <!--
 **Dannter2103/dannter2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
