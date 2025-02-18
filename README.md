@@ -25,7 +25,7 @@
 <h3 aling="center">Mundometria </h3>
 <div aling="center">
 
-<img src="https://cdn.discordapp.com/attachments/1272630507263492199/1341412381573775463/Group_739_1.png?ex=67b5e722&is=67b495a2&hm=90539bb40eed5a936e9352be67c852fbf563051c4684d80a0f18cf4874c7d96b&">
+<img src="https://cdn.discordapp.com/attachments/1272630507263492199/1341412381573775463/Group_739_1.png?ex=67b5e722&is=67b495a2&hm=90539bb40eed5a936e9352be67c852fbf563051c4684d80a0f18cf4874c7d96b&" width="400">
 
   
 </tr>
