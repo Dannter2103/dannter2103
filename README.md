@@ -104,25 +104,3 @@
 </div>
 
 ###
-
-<h2 align="center">Recursos educativos (REA)</h2>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.prod.website-files.com/67b375e724c5ae42d2f2e7a5/67b3cbc6516402875eacbdc8_siuu%20color.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.prod.website-files.com/67b375e724c5ae42d2f2e7a5/67b3ca5f5bbce95b18544ef3_metalmecanica.png"  />
-</div>
-
-###
-
-<div align="center">
-  <img height="200" src="https://cdn.prod.website-files.com/67b375e724c5ae42d2f2e7a5/67b3ca131909a9580bbf822d_el%20perimetro.png"  />
-</div>
-
-###
