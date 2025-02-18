@@ -13,3 +13,22 @@
 - Desarrollador de software
 - Creador de Recursos para el aprendizaje (REA)
 - Modelador 3D
+
+
+## Proyectos
+
+<table>
+<tr>
+
+<td width = "50%">
+
+<h3 aling="center">Curso android basico </h3>
+
+
+  
+</tr>
+
+
+
+  
+</table>
