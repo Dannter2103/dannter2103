@@ -39,7 +39,7 @@
 
 </br>
 
-<p align="left">Tambien soy un desarrollador de recursos educativos para el aprendizaje, los ya conocidos REA, bajo una metodología ludica, efocado en área de formación educativa, creados en herramientas como Genially y Powtoon
+<p align="left">Además, soy desarrollador de recursos educativos abiertos (REA) utilizando una metodología lúdica, enfocados en el ámbito de la formación educativa. He creado estos recursos empleando herramientas innovadoras como Genially y Powtoon.</p>
 
 
 ###
