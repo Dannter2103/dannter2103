@@ -37,6 +37,11 @@
 
 <p align="left">Soy un desarrollador de software desde sus etapas iniciales, asumiendo la responsabilidad de la totalidad del proceso de desarrollo. Esto incluye la conceptualización, diseño, programación ej GDScript y la implementación en los motores Godot y Gdevelop. Mi enfoque se centra en la creación de experiencias de juego innovadoras y de alta calidad.</p>
 
+</br>
+
+<p align="left">Tambien soy un desarrollador de recursos educativos para el aprendizaje, los ya conocidos REA, bajo una metodología ludica, efocado en área de formación educativa, creados en herramientas como Genially y Powtoon
+
+
 ###
 
 </br>
