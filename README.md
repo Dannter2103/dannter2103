@@ -11,7 +11,7 @@
   <a href="https://www.youtube.com/@Dannter" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   </a>
-  <a href="https://discord.com/channels/@me/1272630507263492199" target="_blank">
+  <a href="https://discord.gg/AqQnpnMcCt" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
   </a>
   <a href="instagram.com/dannter_3d" target="_blank">
